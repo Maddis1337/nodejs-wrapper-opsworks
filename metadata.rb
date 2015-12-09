@@ -1,4 +1,4 @@
-name             'nodejs-wrapper-opsworksr'
+name             'nodejs-wrapper-opsworks'
 maintainer       'Dimitar Pavlov'
 maintainer_email 'dimitar@shadez.info'
 license          'All rights reserved'
