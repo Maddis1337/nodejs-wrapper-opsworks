@@ -1,5 +1,5 @@
-name             'nodejs-0.12.0-wrapper'
-maintainer       'Dimitar PAvlov'
+name             'nodejs-wrapper-opsworksr'
+maintainer       'Dimitar Pavlov'
 maintainer_email 'dimitar@shadez.info'
 license          'All rights reserved'
 description      'Installs/Configures nodejs-0.12.0'
